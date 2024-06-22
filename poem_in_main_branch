@@ -7,4 +7,26 @@ har badha
 because Radha Rani is Supreme
 
 This is dispute line in main Branch
+Sir,I also want to contribute in this project 
+Kindly allow me for this
+I am good at this skill
+I can also contribute to this code 
+#include<bits/stdc++.h>
+using namesapce std;
+
+
+int add(int a,int b)
+{
+     int sum = a + b;
+     return sum;
+}
+
+int main(){
+     int x,y;
+     cin >> x >> y;
+     cout << "Sum = " << add(x,y) << endl;
+
+    return 0;
+}
+Sir,This can be a better approach to solve this question.
 
