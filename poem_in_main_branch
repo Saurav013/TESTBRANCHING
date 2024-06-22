@@ -33,4 +33,21 @@ Sir,This can be a better approach to solve this question.
 Really such a nice observation from the new Guy ...
 Amazing well done 
 Good job
+=================================
+Another Approach
+=================================
 
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+
+  int a,b;
+  cin >> a >> b;
+  int sum = a + b;
+  cout << sum << endl;
+
+return 0;
+}
+
+Very Easy approach then Previous one.......
